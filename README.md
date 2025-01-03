@@ -110,7 +110,7 @@ Tags:
 + [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
 + [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
 ***
-### 🔱 Advanced Concurrency
+### 🔱 Concurrency
 + [Scalable Channel](https://arxiv.org/pdf/2211.04986)
 + [Nikita Koval — Synchronization primitives can be faster with SegmentQueueSynchronizer](https://youtu.be/2uxsNJ0TdIM?si=6V3TPxjHoXJlRXW6)
 + M-CAS:
