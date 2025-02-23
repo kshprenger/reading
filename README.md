@@ -45,6 +45,7 @@ Tags:
 + [BEPs](https://www.bittorrent.org/beps/bep_0000.html)
 + [BitTorrent Spec V2](https://www.bittorrent.org/beps/bep_0052.html)
 + [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
++ [Chord[](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 ***
 ### 💯 Transactions
 + [Distributed Transaction Processing: The XA Specification](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
