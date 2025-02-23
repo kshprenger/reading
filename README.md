@@ -12,7 +12,7 @@ Tags:
 + [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 + [PACELS](https://uwaterloo.ca/distributed-algorithms-systems-lab/sites/default/files/uploads/files/proving_pacelc.pdf)
 ***
-### 🤝 Consensus
+### 🤝 Consensus (General)
 + Paxos:
   + [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
@@ -23,7 +23,8 @@ Tags:
   + [Eli Bendersky - Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 + [Heidi Howard - Paxos vs Raft: Have we reached consensus on distributed consensus?](https://youtu.be/0K6kt39wyH0?si=KyWtwr-w3g7vqG69)
 + [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf)
-+ 💸 BFT & Crypto:
+***
+### 💸 BFT & Crypto:
   + [The Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
   + [Bitcoin](https://bitcoin.org/bitcoin.pdf)
   + TON:
@@ -39,7 +40,10 @@ Tags:
   + [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
   + [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
 ***
-### 🤫 Gossip/Infectioning
+### 🕸️ P2P/Gossip/Infectioning
++ [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
++ [BEPs](https://www.bittorrent.org/beps/bep_0000.html)
++ [BitTorrent Spec V2](https://www.bittorrent.org/beps/bep_0052.html)
 + [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
 ***
 ### 💯 Transactions
@@ -103,7 +107,6 @@ Tags:
 + Facebook:
   + [Virtual consensus in Delos](https://research.facebook.com/file/534538337798875/Virtual-Consensus-in-Delos.pdf)
   + [RocksDB](https://www.usenix.org/system/files/fast21-dong.pdf)
-+ [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 + [ETCD Key-Value](https://etcd.io/)
 ***
 ### 📜 Related Lists
