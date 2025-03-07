@@ -9,6 +9,7 @@ Tags:
 + [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
 + [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 + [The Art of Multiprocessor Programming by Maurice Herlihy & Nir Shavit](https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf)
++ [Data Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 + [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 + [PACELS](https://uwaterloo.ca/distributed-algorithms-systems-lab/sites/default/files/uploads/files/proving_pacelc.pdf)
 ***
@@ -36,6 +37,7 @@ Tags:
     + [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER (Yellow paper)](https://ethereum.github.io/yellowpaper/paper.pdf)
   + [Asynchronous Consensus without Trusted Setup or Public-KeyCryptography](https://eprint.iacr.org/2024/677.pdf)
   + [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+  + [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
   + [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069)
   + [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
   + [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
@@ -73,11 +75,6 @@ Tags:
   + [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
   + [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
 + [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
-***
-### 🖌️ System Design
-+ [Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316)
-+ [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
-+ [Data Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 ***
 ### 🎛️ Scheduling
 + [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
