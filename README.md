@@ -1,6 +1,4 @@
 ## Reading
-Tags:
-***
 ### 🐲 Hydra book
 + [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 ***
