@@ -117,6 +117,7 @@
     + [Efficient Multi-word Compare and Swap](https://arxiv.org/pdf/2008.02527)
     + [Easy Lock-Free Indexing in Non-Volatile Memory](https://www2.cs.sfu.ca/~tzwang/pmwcas.pdf)
 + Model Checking:
+    + [Dynamic Partial-Order Reduction for Model Checking Software](https://users.soe.ucsc.edu/~cormac/papers/popl05.pdf)
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
     + [CDSCHECKER: Checking Concurrent Data Structures Written with C/C++ Atomics](http://demsky.eecs.uci.edu/publications/c11modelcheck.pdf)
 ***
