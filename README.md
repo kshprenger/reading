@@ -1,4 +1,4 @@
-## Reading: Distributed system
+## Reading: Distributed Systems
 
 ### 🐲 Hydra book
 
