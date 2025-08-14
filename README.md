@@ -156,8 +156,9 @@
 
 - [Hydra](https://hydraconf.com/)
 - [Highload++](https://highload.ru/)
-- [Systems Distributed '24](https://systemsdistributed.com/)
+- [Systems Distributed](https://systemsdistributed.com/)
 - [The Strange Loop](https://www.thestrangeloop.com/index.html)
+- [BugBash](https://bugbash.antithesis.com/#about)
 
 ---
 
