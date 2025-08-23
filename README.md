@@ -31,6 +31,12 @@
   - [Eli Bendersky - Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 - [Heidi Howard - Paxos vs Raft: Have we reached consensus on distributed consensus?](https://youtu.be/0K6kt39wyH0?si=KyWtwr-w3g7vqG69)
 - [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf)
+- [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
+  
+---
+
+### 🗳️ Quorum systems
+- [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/pdf/1608.06696)
 
 ---
 
@@ -50,7 +56,6 @@
 - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
 - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069)
 - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
-- [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
 
 ---
 
@@ -68,8 +73,7 @@
 
 - [Distributed Transaction Processing: The XA Specification](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
 - [Two Phase Locking (2PL)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/chapter3.pdf)
-- Detetministic:
-  - [Calvin: Fast Distributed Transactions for Partitioned Database Systems](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
+- [Calvin: Fast Distributed Transactions for Partitioned Database Systems](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 - [Maurice Herlihy — Transactional memory](https://youtu.be/EGlcl1rGj1E?si=gqhJJekdXqux0rwy)
 - [The hitchhiker's guide to distributed transactions](https://youtu.be/sD5L5Utlq5g?si=GHlKolJ-ve8LH5rk)
 - [Hermitage](https://github.com/ept/hermitage)
@@ -146,16 +150,17 @@
 
 ### 📰 Blog
 
-- [Dmitry Vyukov](https://www.1024cores.net/)
+- [Dmitry Vyukov 1024cores](https://www.1024cores.net/)
 - [Asymmetric Transfer by Lewiss Baker](https://lewissbaker.github.io/)
 - [TigerBeetle](https://tigerbeetle.com/blog)
+- [Jepsen](https://jepsen.io/blog)
+- [Eli Bendersky: Concurrency](https://eli.thegreenplace.net/tag/concurrency)
 
 ---
 
 ### 🌟 Conference
 
 - [Hydra](https://hydraconf.com/)
-- [Highload++](https://highload.ru/)
 - [Systems Distributed](https://systemsdistributed.com/)
 - [The Strange Loop](https://www.thestrangeloop.com/index.html)
 - [BugBash](https://bugbash.antithesis.com/#about)
