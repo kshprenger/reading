@@ -161,6 +161,8 @@
 
 ### 🌟 Conference
 
+[CORE rankings](https://portal.core.edu.au/conf-ranks/)
+
 - [Hydra](https://hydraconf.com/)
 - [Systems Distributed](https://systemsdistributed.com/)
 - [The Strange Loop](https://www.thestrangeloop.com/index.html)
