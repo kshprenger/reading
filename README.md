@@ -32,10 +32,11 @@
 - [Heidi Howard - Paxos vs Raft: Have we reached consensus on distributed consensus?](https://youtu.be/0K6kt39wyH0?si=KyWtwr-w3g7vqG69)
 - [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf)
 - [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
-  
+
 ---
 
 ### 🗳️ Quorum systems
+
 - [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/pdf/1608.06696)
 
 ---
@@ -164,18 +165,21 @@
 - [Systems Distributed](https://systemsdistributed.com/)
 - [The Strange Loop](https://www.thestrangeloop.com/index.html)
 - [BugBash](https://bugbash.antithesis.com/#about)
+- [IPDPS](https://www.ipdps.org)
 
 ---
 
 ## Reading: Concurrency
 
 ### 🧰 Tools
+
 - [Scalable Channel](https://arxiv.org/pdf/2211.04986)
 - [Nikita Koval — Synchronization primitives can be faster with SegmentQueueSynchronizer](https://youtu.be/2uxsNJ0TdIM?si=6V3TPxjHoXJlRXW6)
 
 ---
 
 ### 🧮 Transactional Memory
+
 - [A Practical Multi-Word Compare-and-Swap Operation](https://www.cl.cam.ac.uk/research/srg/netos/papers/2002-casn.pdf)
 - [Efficient Multi-word Compare and Swap](https://arxiv.org/pdf/2008.02527)
 - [Easy Lock-Free Indexing in Non-Volatile Memory](https://www2.cs.sfu.ca/~tzwang/pmwcas.pdf)
@@ -183,6 +187,7 @@
 ---
 
 ### 🔍 Model Checking
+
 - [Dynamic Partial-Order Reduction for Model Checking Software](https://users.soe.ucsc.edu/~cormac/papers/popl05.pdf)
 - [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
 - [CDSCHECKER: Checking Concurrent Data Structures Written with C/C++ Atomics](http://demsky.eecs.uci.edu/publications/c11modelcheck.pdf)
