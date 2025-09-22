@@ -173,7 +173,9 @@
 - [Systems Distributed](https://systemsdistributed.com/)
 - [The Strange Loop](https://www.thestrangeloop.com/index.html)
 - [BugBash](https://bugbash.antithesis.com/#about)
-- [IPDPS](https://www.ipdps.org)
+- [ICDCS](https://icdcs2025.icdcs.org)
+- [PODC](https://www.podc.org)
+- [DISK](https://www.disc-conference.org/wp/)
 
 ---
 
