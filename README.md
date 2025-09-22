@@ -57,6 +57,12 @@
 - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
 - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069)
 - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
+- DAG-based blockchains
+  - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
+  - NDA paper
+  - [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677)
+  - [Bullshark: The Partially Synchronous Version](https://arxiv.org/pdf/2209.05633)
+  - [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/pdf/2105.11827)
 
 ---
 
