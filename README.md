@@ -16,6 +16,7 @@
 - [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 - [PACELS](https://uwaterloo.ca/distributed-algorithms-systems-lab/sites/default/files/uploads/files/proving_pacelc.pdf)
 - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
+- [Introduction to Reliable and Secure Distributed Programming](https://link.springer.com/book/10.1007/978-3-642-15260-3#overview)
 
 ---
 
