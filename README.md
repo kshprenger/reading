@@ -59,7 +59,7 @@
 - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
 - DAG-based blockchains
   - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
-  - [All you need is DAG](https://arxiv.org/abs/2102.08325)
+  - [All you need is DAG (DAG-Rider)](https://arxiv.org/pdf/2102.08325)
   - NDA paper
   - [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677)
   - [Bullshark: The Partially Synchronous Version](https://arxiv.org/pdf/2209.05633)
