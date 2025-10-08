@@ -37,7 +37,7 @@
 
 ### 🗳️ Quorum systems
 
-- [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/pdf/1608.06696)
+- [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/abs/1608.06696)
 
 ---
 
@@ -55,15 +55,17 @@
 - [Asynchronous Consensus without Trusted Setup or Public-KeyCryptography](https://eprint.iacr.org/2024/677.pdf)
 - [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
 - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
-- [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069)
+- [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069)
 - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
 - DAG-based blockchains
   - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
-  - [All you need is DAG (DAG-Rider)](https://arxiv.org/pdf/2102.08325)
+  - [All you need is DAG (DAG-Rider)](https://arxiv.org/abs/2102.08325)
   - NDA paper
-  - [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/pdf/2201.05677)
-  - [Bullshark: The Partially Synchronous Version](https://arxiv.org/pdf/2209.05633)
-  - [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/pdf/2105.11827)
+  - [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/abs/2201.05677)
+  - [Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633)
+  - [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827)
+  - [Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821)
+  - [Odontoceti: Ultra-Fast DAG Consensus with Two Round Commitment](https://arxiv.org/abs/2510.01216)
 
 ---
 
@@ -100,7 +102,7 @@
 - Simulations:
   - Matrix clock:
     - [Cambridge Press slides](https://www.cs.uic.edu/~ajayk/Chapter3.pdf)
-    - [On reducing the complexity of matrix clocks](https://arxiv.org/pdf/cs/0309042)
+    - [On reducing the complexity of matrix clocks](https://arxiv.org/abs/cs/0309042)
   - [TigerBeetle VOPR](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
   - [Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
   - [Jepsen](https://jepsen.io/)
@@ -184,7 +186,7 @@
 
 ### 🧰 Tools
 
-- [Scalable Channel](https://arxiv.org/pdf/2211.04986)
+- [Scalable Channel](https://arxiv.org/abs/2211.04986)
 - [Nikita Koval — Synchronization primitives can be faster with SegmentQueueSynchronizer](https://youtu.be/2uxsNJ0TdIM?si=6V3TPxjHoXJlRXW6)
 
 ---
@@ -192,7 +194,7 @@
 ### 🧮 Transactional Memory
 
 - [A Practical Multi-Word Compare-and-Swap Operation](https://www.cl.cam.ac.uk/research/srg/netos/papers/2002-casn.pdf)
-- [Efficient Multi-word Compare and Swap](https://arxiv.org/pdf/2008.02527)
+- [Efficient Multi-word Compare and Swap](https://arxiv.org/abs/2008.02527)
 - [Easy Lock-Free Indexing in Non-Volatile Memory](https://www2.cs.sfu.ca/~tzwang/pmwcas.pdf)
 
 ---
