@@ -59,11 +59,11 @@
 - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
 - DAG-based blockchains
   - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
-  - [All you need is DAG (DAG-Rider)](https://arxiv.org/abs/2102.08325)
-  - NDA paper
-  - [Bullshark: DAG BFT Protocols Made Practical](https://arxiv.org/abs/2201.05677)
+  - [DAG-Rider](https://arxiv.org/abs/2102.08325)
+  - [Bullshark](https://arxiv.org/abs/2201.05677)
   - [Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633)
-  - [Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus](https://arxiv.org/abs/2105.11827)
+  - [Sparse Bullshark](todo)
+  - [Narwhal and Tusk](https://arxiv.org/abs/2105.11827)
   - [Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821)
   - [Odontoceti: Ultra-Fast DAG Consensus with Two Round Commitment](https://arxiv.org/abs/2510.01216)
 
