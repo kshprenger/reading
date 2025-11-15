@@ -62,7 +62,7 @@
   - [DAG-Rider](https://arxiv.org/abs/2102.08325)
   - [Bullshark](https://arxiv.org/abs/2201.05677)
   - [Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633)
-  - [Sparse Bullshark](todo)
+  - [Sparse Bullshark](https://arxiv.org/abs/2506.13998)
   - [Narwhal and Tusk](https://arxiv.org/abs/2105.11827)
   - [Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821)
   - [Odontoceti: Ultra-Fast DAG Consensus with Two Round Commitment](https://arxiv.org/abs/2510.01216)
