@@ -64,6 +64,7 @@
   - [Bullshark: The Partially Synchronous Version](https://arxiv.org/abs/2209.05633)
   - [Sparse Bullshark](https://arxiv.org/abs/2506.13998)
   - [Narwhal and Tusk](https://arxiv.org/abs/2105.11827)
+  - [Shoal Pipelining](https://arxiv.org/abs/2306.03058)
   - [Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821)
   - [Odontoceti: Ultra-Fast DAG Consensus with Two Round Commitment](https://arxiv.org/abs/2510.01216)
 
