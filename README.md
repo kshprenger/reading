@@ -112,7 +112,7 @@
   - [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
   - [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
-
+- [Wing-Gong-Lowe (WGL) Linchecker](https://www.cs.ox.ac.uk/people/gavin.lowe/LinearizabiltyTesting/paper.pdf)
 ---
 
 ### 🎛️ Scheduling
