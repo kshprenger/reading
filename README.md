@@ -45,10 +45,7 @@
 
 - [The Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
-- TON:
-  - [The Open Network (White paper)](https://docs.ton.org/ton.pdf)
-  - [Telegram Open Network Blockchain](https://docs.ton.org/tblkch.pdf)
-  - [Catchain Consensus: An Outline](https://docs.ton.org/catchain.pdf)
+- [Algorand](https://dl.acm.org/doi/10.1145/3132747.3132757)
 - Ethereum:
   - [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform (White paper)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
   - [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER (Yellow paper)](https://ethereum.github.io/yellowpaper/paper.pdf)
@@ -113,6 +110,7 @@
   - [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
 - [Wing-Gong-Lowe (WGL) Linchecker](https://www.cs.ox.ac.uk/people/gavin.lowe/LinearizabiltyTesting/paper.pdf)
+
 ---
 
 ### 🎛️ Scheduling
