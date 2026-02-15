@@ -54,6 +54,7 @@
 - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
 - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069)
 - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
+- [Autobahn: Seamless high speed BFT](https://arxiv.org/abs/2401.10369)
 - DAG-based blockchains
   - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
   - [DAG-Rider](https://arxiv.org/abs/2102.08325)
