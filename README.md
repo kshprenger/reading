@@ -29,19 +29,14 @@
 - Raft:
   - [In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
   - [Eli Bendersky - Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
+- [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/abs/1608.06696)
 - [Heidi Howard - Paxos vs Raft: Have we reached consensus on distributed consensus?](https://youtu.be/0K6kt39wyH0?si=KyWtwr-w3g7vqG69)
 - [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](https://pmg.csail.mit.edu/papers/vr.pdf)
 - [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
 
 ---
 
-### 🗳️ Quorum systems
-
-- [Flexible Paxos: Quorum intersection revisited](https://arxiv.org/abs/1608.06696)
-
----
-
-### 💸 BFT & Crypto:
+### ⚔️🤝 BFT:
 
 - [The Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
