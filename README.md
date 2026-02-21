@@ -44,13 +44,12 @@
 - Ethereum:
   - [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform (White paper)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
   - [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER (Yellow paper)](https://ethereum.github.io/yellowpaper/paper.pdf)
-- [Asynchronous Consensus without Trusted Setup or Public-KeyCryptography](https://eprint.iacr.org/2024/677.pdf)
-- [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
-- [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
-- [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069)
-- [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
-- [Autobahn: Seamless high speed BFT](https://arxiv.org/abs/2401.10369)
-- DAG-based blockchains
+- PBFT-Line
+  - [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+  - [The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)
+  - [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
+  - [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/abs/1803.05069)
+- DAG-based
   - [DAG Meets BFT - The Next Generation of BFT Consensus](https://decentralizedthoughts.github.io/2022-06-28-DAG-meets-BFT/)
   - [DAG-Rider](https://arxiv.org/abs/2102.08325)
   - [Bullshark](https://arxiv.org/abs/2201.05677)
@@ -60,6 +59,9 @@
   - [Shoal Pipelining](https://arxiv.org/abs/2306.03058)
   - [Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821)
   - [Odontoceti: Ultra-Fast DAG Consensus with Two Round Commitment](https://arxiv.org/abs/2510.01216)
+- DAG-inspired
+  - [Autobahn: Seamless high speed BFT](https://arxiv.org/abs/2401.10369)
+  - [Raptr](https://arxiv.org/abs/2504.18649)
 
 ---
 
@@ -155,7 +157,6 @@
 
 ### 📰 Blog
 
-- [Dmitry Vyukov 1024cores](https://www.1024cores.net/)
 - [Asymmetric Transfer by Lewiss Baker](https://lewissbaker.github.io/)
 - [TigerBeetle](https://tigerbeetle.com/blog)
 - [Jepsen](https://jepsen.io/blog)
