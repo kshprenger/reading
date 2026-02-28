@@ -157,6 +157,7 @@
 
 ### 📰 Blog
 
+- [Decentralized Thoughts](https://decentralizedthoughts.github.io)
 - [Asymmetric Transfer by Lewiss Baker](https://lewissbaker.github.io/)
 - [TigerBeetle](https://tigerbeetle.com/blog)
 - [Jepsen](https://jepsen.io/blog)
