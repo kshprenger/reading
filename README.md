@@ -137,10 +137,6 @@
   - [F1](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
   - [Bigtable: A Distributed Storage System for Structured Data](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
   - [The Chubby lock service for loosely-coupled distributed systems](https://research.google.com/archive/chubby-osdi06.pdf)
-- Yandex:
-  - [Распределенные транзакции в YDB / Семён Чечеринда (Яндекс)](https://youtu.be/8AR1u5OZIm8?si=PFz6sznlm2lLj_xc)
-  - [YTsaurus](https://ytsaurus.tech/docs/en/)
-  - [Просто о сложном как работает драйвер распределенной базы данных YDB / Алексей Мясников](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 - Facebook:
   - [Virtual consensus in Delos](https://research.facebook.com/file/534538337798875/Virtual-Consensus-in-Delos.pdf)
   - [RocksDB](https://www.usenix.org/system/files/fast21-dong.pdf)
@@ -159,7 +155,6 @@
 
 - [Decentralized Thoughts](https://decentralizedthoughts.github.io)
 - [Asymmetric Transfer by Lewiss Baker](https://lewissbaker.github.io/)
-- [TigerBeetle](https://tigerbeetle.com/blog)
 - [Jepsen](https://jepsen.io/blog)
 - [Eli Bendersky: Concurrency](https://eli.thegreenplace.net/tag/concurrency)
 
@@ -169,13 +164,13 @@
 
 [CORE rankings](https://portal.core.edu.au/conf-ranks/)
 
+- [ICDCS](https://icdcs2025.icdcs.org)
+- [PODC](https://www.podc.org)
+- [DISK](https://www.disc-conference.org/wp/)
 - [Hydra](https://hydraconf.com/)
 - [Systems Distributed](https://systemsdistributed.com/)
 - [The Strange Loop](https://www.thestrangeloop.com/index.html)
 - [BugBash](https://bugbash.antithesis.com/#about)
-- [ICDCS](https://icdcs2025.icdcs.org)
-- [PODC](https://www.podc.org)
-- [DISK](https://www.disc-conference.org/wp/)
 
 ---
 
