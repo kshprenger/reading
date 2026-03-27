@@ -58,7 +58,6 @@
   - [Narwhal and Tusk](https://arxiv.org/abs/2105.11827)
   - [Shoal Pipelining](https://arxiv.org/abs/2306.03058)
   - [Mysticeti: Reaching the Limits of Latency with Uncertified DAGs](https://arxiv.org/abs/2310.14821)
-  - [Odontoceti: Ultra-Fast DAG Consensus with Two Round Commitment](https://arxiv.org/abs/2510.01216)
 - DAG-inspired
   - [Autobahn: Seamless high speed BFT](https://arxiv.org/abs/2401.10369)
   - [Raptr](https://arxiv.org/abs/2504.18649)
