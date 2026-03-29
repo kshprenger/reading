@@ -104,6 +104,7 @@
   - [Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
   - [Jepsen](https://jepsen.io/)
   - [Nucleus](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+  - [DScale](https://github.com/kshprenger/dscale)
 - TLA:
   - [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
   - [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
