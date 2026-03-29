@@ -19,13 +19,12 @@
 
 ---
 
-### 🤝 Consensus (General)
+### 🤝 Consensus (Basics)
 
 - Paxos:
   - [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   - [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
   - [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
-  - [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 - Raft:
   - [In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
   - [Eli Bendersky - Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
@@ -40,7 +39,6 @@
 
 - [The Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
-- [Algorand](https://dl.acm.org/doi/10.1145/3132747.3132757)
 - Ethereum:
   - [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform (White paper)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
   - [ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER (Yellow paper)](https://ethereum.github.io/yellowpaper/paper.pdf)
@@ -61,8 +59,11 @@
 - DAG-inspired
   - [Autobahn: Seamless high speed BFT](https://arxiv.org/abs/2401.10369)
   - [Raptr](https://arxiv.org/abs/2504.18649)
-
----
+- Leaderlessness & Scalability:
+  - [Algorand](https://dl.acm.org/doi/10.1145/3132747.3132757)
+  - [NDA Paper TBD](https://nda.nda)
+  - [EPaxos](https://dl.acm.org/doi/10.1145/2517349.2517350)
+- ***
 
 ### 🕸️ P2P/Gossip/Infectioning
 
@@ -144,12 +145,13 @@
 
 ---
 
-### 📜 Related Lists
+### 📜 Related collections
 
 - [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
 - [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
+- [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 
----
+- ***
 
 ### 📰 Blog
 
