@@ -38,6 +38,7 @@
 ### ⚔️🤝 BFT:
 
 - [The Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
+- [Byzantine quorum systems](https://dl.acm.org/doi/10.1145/258533.258650)
 - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 - Ethereum:
   - [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform (White paper)](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
