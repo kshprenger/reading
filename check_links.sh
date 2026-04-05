@@ -5,7 +5,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
 NC='\033[0m'
 
-BATCH_SIZE=2    0
+BATCH_SIZE=20
 readme="README.md"
 tmpdir=$(mktemp -d)
 trap "rm -rf $tmpdir" EXIT
