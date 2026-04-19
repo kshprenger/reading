@@ -1,5 +1,8 @@
 ## Reading: Distributed Systems
 
+> [!WARNING]  
+> Repository was moved to https://codeberg.org/kshprenger/reading
+
 ### 🐲 Hydra book
 
 - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
